@@ -12,3 +12,5 @@ Objetivos del proyecto:
 
 
 Para el punto 2, trabajaremos con un dataset que tiene registros de compras de clientes de una e-commerce ficticia en la cuál, para poder realizar dichas compras, debes estar registrado con una especie de "membresia" y es por esto que, existe una columna en el dataset de entrenamiento que determina si el cliente abandonó el servicio o no.
+
+Cabe aclarar que este proyecto, todavía se encuentra en desarrollo.
